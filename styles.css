@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "Star_Wars";
+    src: url(fonts/StarJedi-DGRW.ttf) format('truetype');
+}
+
+
+#darth_vader{
+    font-size: 200%;
+}
+
+#luke{
+    font-style: italic;
+}
+
+.imperial{
+    background-color: red;
+}
+
+.rebelde{
+    background-color: blue;
+}
+
+.soldado{
+    border: dashed;
+    letter-spacing: 2;
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.nave{
+    text-transform: uppercase;
+}
+
+.droide img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img{
+    height: 200px;
+    width: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+* {
+    color: white;
+    font-family: "Star_Wars", Arial, Helvetica, sans-serif;
+}
